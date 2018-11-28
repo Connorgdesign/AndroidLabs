@@ -1,0 +1,2 @@
+android.app.Application
+TidePrediction_sql.TidePrediction_sql

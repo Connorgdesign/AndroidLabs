@@ -1,0 +1,5 @@
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.0\TidePrediction-Console.csprojAssemblyReference.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.0\TidePrediction-Console.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.0\TidePrediction-Console.AssemblyInfoInputs.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.0\TidePrediction-Console.AssemblyInfo.cs
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.0\TidePrediction-Console.dll.config

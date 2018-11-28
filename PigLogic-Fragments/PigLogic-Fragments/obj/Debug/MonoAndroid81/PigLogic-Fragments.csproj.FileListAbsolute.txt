@@ -1,0 +1,2 @@
+C:\Users\Cody Connor\source\repos\PigLogic-Fragments\PigLogic-Fragments\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Cody Connor\source\repos\PigLogic-Fragments\PigLogic-Fragments\obj\Debug\MonoAndroid81\PigLogic-Fragments.csproj.CoreCompileInputs.cache

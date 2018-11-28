@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<Spinner
+		android:layout_width="261.0dp"
+		android:layout_height="43.0dp"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/spinner1"
+		android:layout_marginLeft="60.5dp"
+		android:layout_marginTop="16.5dp" />
+	<DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:calendarViewShown="false"
+        android:spinnersShown="true"
+        android:id="@+id/stockDatePicker" />
+</RelativeLayout>

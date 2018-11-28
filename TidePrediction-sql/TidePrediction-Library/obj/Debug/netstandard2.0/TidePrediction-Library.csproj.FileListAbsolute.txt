@@ -1,0 +1,13 @@
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.AssemblyInfoInputs.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.AssemblyInfo.cs
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\bin\Debug\netstandard2.0\TidePrediction-Library.deps.json
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\bin\Debug\netstandard2.0\TidePrediction-Library.dll
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\bin\Debug\netstandard2.0\TidePrediction-Library.pdb
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.csprojAssemblyReference.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.csproj.CopyComplete
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.dll
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Library\obj\Debug\netstandard2.0\TidePrediction-Library.pdb

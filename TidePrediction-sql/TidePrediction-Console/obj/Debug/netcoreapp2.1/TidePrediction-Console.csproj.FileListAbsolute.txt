@@ -1,0 +1,8 @@
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.1\TidePrediction-Console.csprojAssemblyReference.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.1\TidePrediction-Console.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.1\TidePrediction-Console.AssemblyInfoInputs.cache
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\obj\Debug\netcoreapp2.1\TidePrediction-Console.AssemblyInfo.cs
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\bin\Debug\netcoreapp2.1\Mono.Android.dll
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\bin\Debug\netcoreapp2.1\TidePrediction-Library.dll
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\bin\Debug\netcoreapp2.1\Mono.Android.pdb
+C:\Users\Cody Connor\source\repos\TidePrediction-sql\TidePrediction-Console\bin\Debug\netcoreapp2.1\Mono.Android.xml

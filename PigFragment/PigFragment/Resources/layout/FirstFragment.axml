@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:minWidth="25px"
+	android:minHeight="25px">
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="34.0dp"
+		android:id="@+id/linearLayout1"
+		android:layout_marginTop="86.0dp">
+		<TextView
+			android:text="Player 1"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:id="@+id/player1Text"
+			android:layout_marginLeft="62.0dp" />
+		<TextView
+			android:text="Player 2"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:id="@+id/player2Text"
+			android:layout_marginLeft="24.0dp" />
+	</LinearLayout>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="319.5dp"
+		android:layout_height="57.0dp"
+		android:id="@+id/linearLayout2"
+		android:layout_marginLeft="28.5dp"
+		android:layout_marginTop="32.0dp">
+		<EditText
+			android:hint="Enter Name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:id="@+id/player_one"
+		/>
+		<EditText
+			android:hint="Enter Name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:id="@+id/player_two"
+		/>
+	</LinearLayout>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="50.5dp"
+		android:id="@+id/linearLayout3"
+		android:layout_marginTop="55.5dp" >
+		<Button
+			android:text="Button"
+			android:layout_width="208.0dp"
+			android:layout_height="36.5dp"
+			android:id="@+id/startButton"
+			android:layout_marginLeft="80.5dp" />
+	</LinearLayout>
+	</LinearLayout>

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlTidePredictions", "SqlTidePredictions\SqlTidePredictions.csproj", "{71B2D2BA-D78C-469C-87F9-52F51BD6102B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidePrediction-Library", "TidePrediction-Library\TidePrediction-Library.csproj", "{685F12D9-A38B-47D5-B7C2-FCF25F80D6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidePrediction-Console", "TidePrediction-Console\TidePrediction-Console.csproj", "{C770CA67-B6CF-44FE-B5B9-38FA68DB6D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B2D2BA-D78C-469C-87F9-52F51BD6102B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B2D2BA-D78C-469C-87F9-52F51BD6102B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B2D2BA-D78C-469C-87F9-52F51BD6102B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{71B2D2BA-D78C-469C-87F9-52F51BD6102B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B2D2BA-D78C-469C-87F9-52F51BD6102B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B2D2BA-D78C-469C-87F9-52F51BD6102B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{685F12D9-A38B-47D5-B7C2-FCF25F80D6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685F12D9-A38B-47D5-B7C2-FCF25F80D6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685F12D9-A38B-47D5-B7C2-FCF25F80D6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685F12D9-A38B-47D5-B7C2-FCF25F80D6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C770CA67-B6CF-44FE-B5B9-38FA68DB6D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C770CA67-B6CF-44FE-B5B9-38FA68DB6D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C770CA67-B6CF-44FE-B5B9-38FA68DB6D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C770CA67-B6CF-44FE-B5B9-38FA68DB6D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A6F8D6F-FBF6-4BDA-8943-656EDE24D5AA}
+	EndGlobalSection
+EndGlobal
